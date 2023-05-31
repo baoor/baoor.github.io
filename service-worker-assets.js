@@ -189,10 +189,6 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z6SiYGBk78gaLgbdo\/lYEpHu7yLGs16CVD0DSJHo\/W8=",
-      "url": "decode.js"
-    },
-    {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
     },
@@ -205,7 +201,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-0t8StYhqlQnzmXfzTrY1irBJY5dwwt7nShclgWqRGa8=",
+      "hash": "sha256-G8nXca3vivsoXEyBsjk4Hdcz\/4Ppekms00nX7JSdE+M=",
       "url": "index.html"
     },
     {
@@ -221,5 +217,5 @@
       "url": "_content\/BlazorDemo.Pages\/exampleJsInterop.js"
     }
   ],
-  "version": "9Mij8\/NJ"
+  "version": "1xWG+pn1"
 };
